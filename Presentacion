@@ -80,25 +80,24 @@
 
     <div class="personal-data">
         <h3 class="section-title">Datos de contacto</h3>
-        <p>📧 </p>
+        <p>📧 a284256@uach.mx</p>
         <p>📱 614-159-8682</p>
         <p>📍 Chihuahua, México</p>
     </div>
 
     <h3 class="section-title">Objetivo Profesional</h3>
-    <p>Desarrollador Backend con experiencia en creación de sistemas escalables y eficientes. Especializado en soluciones tecnológicas innovadoras con Python, Java y C++.</p>
+    <p>Desarrollador Backend especificamente en creación de sistemas escalables y eficientes.</p>
 
     <h3 class="section-title">Experiencia Profesional</h3>
     <p><strong>Auxiliar de oficina</strong> (5 años)</p>
     <ul>
         <li>Gestión y optimización de sistemas administrativos</li>
-        <li>Automatización de procesos con Python</li>
-        <li>Mantenimiento de infraestructura tecnológica</li>
+
     </ul>
 
     <h3 class="section-title">Preparación Académica</h3>
     <p><strong>Ingeniería de Software</strong> (Cursando último año)</p>
-    <p>Universidad Nacional Autónoma de México - UNAM</p>
+    <p>Universidad Autónoma de Chihuahua - UACH</p>
 
     <div class="grid-container">
         <div>
@@ -112,8 +111,8 @@
         <div>
             <h3 class="section-title">Habilidades Técnicas</h3>
             <ul class="skills-list">
-                <li>Python (Django, Flask)</li>
-                <li>Java (Spring Boot)</li>
+                <li>Python </li>
+                <li>Java </li>
                 <li>C++</li>
                 <li>Ubuntu/Linux</li>
                 <li>Bases de datos SQL/NoSQL</li>
